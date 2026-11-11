@@ -64,7 +64,7 @@
   </g>
 
   <!-- SECOND MAN (same height as the woman), left of the couple, bowing toward them (mirrored) -->
-  <g transform="translate(2020 0) scale(-1 1)" fill="#120d22" stroke="#120d22" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(2100 0) scale(-1 1)" fill="#120d22" stroke="#120d22" stroke-linecap="round" stroke-linejoin="round">
     <!-- legs (side view) -->
     <path d="M1290 330 L1314 330 L1310 400 L1308 462 L1294 462 L1292 400 Z"/>
     <path d="M1308 458 L1308 468 L1280 468 Q1280 458 1290 458 Z"/>
