@@ -63,6 +63,20 @@
     <ellipse cx="1078" cy="265" rx="12" ry="9" stroke="none"/>
   </g>
 
+  <!-- SECOND MAN (same height as the woman), bowing toward the couple -->
+  <g fill="#120d22" stroke="#120d22" stroke-linecap="round" stroke-linejoin="round">
+    <!-- legs (side view) -->
+    <path d="M1290 330 L1314 330 L1310 400 L1308 462 L1294 462 L1292 400 Z"/>
+    <path d="M1308 458 L1308 468 L1280 468 Q1280 458 1290 458 Z"/>
+    <!-- bent torso -->
+    <path d="M1302 334 L1218 284" stroke-width="40" fill="none"/>
+    <!-- neck + head, bowed -->
+    <path d="M1212 280 L1190 268" stroke-width="13" fill="none"/>
+    <ellipse cx="1180" cy="264" rx="15" ry="17" transform="rotate(-60 1180 264)"/>
+    <!-- arm folded across the waist -->
+    <path d="M1222 290 L1226 330 L1264 324" stroke-width="13" fill="none"/>
+  </g>
+
   <!-- text -->
   <g font-family="Georgia, 'Times New Roman', serif" fill="#fff4e6">
     <text x="90" y="215" font-size="96" font-weight="bold" letter-spacing="4">Love</text>
