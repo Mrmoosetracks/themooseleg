@@ -159,9 +159,10 @@
 
   <!-- text -->
   <g font-family="Georgia, 'Times New Roman', serif" filter="url(#softShadow)">
-    <text x="90" y="215" font-size="96" font-weight="bold" letter-spacing="4" fill="url(#title)">Love</text>
-    <rect x="94" y="238" width="64" height="2" fill="#ffcf9f" opacity="0.8"/>
-    <text x="94" y="282" font-size="28" fill="#ffdcbc" font-style="italic" opacity="0.92">Strength that stands with you.</text>
+    <text x="90" y="200" font-size="96" font-weight="bold" letter-spacing="8" fill="url(#title)">ENM</text>
+    <text x="94" y="244" font-size="24" letter-spacing="5" fill="#ffe0c0">ETHICAL NON-MONOGAMY</text>
+    <rect x="94" y="264" width="64" height="2" fill="#ffcf9f" opacity="0.8"/>
+    <text x="94" y="304" font-size="26" fill="#ffdcbc" font-style="italic" opacity="0.92">Strength that stands with you.</text>
   </g>
 
   <!-- vignette -->
