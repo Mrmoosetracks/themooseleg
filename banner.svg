@@ -17,21 +17,21 @@
   <circle cx="1050" cy="300" r="230" fill="url(#sun)" opacity="0.85"/>
   <path d="M0 455 Q 300 430 600 450 T 1200 445 T 1500 450 V500 H0 Z" fill="#1b1430"/>
 
-  <!-- MAN (big, strong, behind) -->
+  <!-- MAN (tall, athletic, behind) — ~8 heads tall -->
   <g fill="#120d22" stroke="#120d22" stroke-linecap="round" stroke-linejoin="round">
     <!-- legs -->
-    <path d="M985 330 L1048 330 L1040 462 L992 462 Z"/>
-    <path d="M1052 330 L1115 330 L1108 462 L1060 462 Z"/>
-    <path d="M982 458 h62 v12 h-70 q0-12 8-12 Z"/>
-    <path d="M1056 458 h62 q8 0 8 12 h-70 Z"/>
+    <path d="M1009 288 L1049 288 L1044 380 L1040 460 L1022 460 L1016 380 Z"/>
+    <path d="M1051 288 L1091 288 L1084 380 L1078 460 L1060 460 L1056 380 Z"/>
+    <path d="M1018 458 h26 v10 h-32 q0-10 6-10 Z"/>
+    <path d="M1056 458 h26 q6 0 6 10 h-32 Z"/>
     <!-- torso: broad shoulders, V-taper -->
-    <path d="M960 166 Q1050 150 1140 166 Q1192 176 1194 222 L1178 300 L1112 338 L988 338 L922 300 L906 222 Q908 176 960 166 Z"/>
+    <path d="M1036 164 Q1006 166 992 172 Q976 180 978 205 L996 214 Q1004 240 1012 262 L1008 292 L1092 292 L1088 262 Q1096 240 1104 214 L1122 205 Q1124 180 1108 172 Q1094 166 1064 164 Z"/>
     <!-- neck + head -->
-    <path d="M1026 128 h48 v42 h-48 Z"/>
-    <ellipse cx="1050" cy="104" rx="31" ry="37"/>
-    <!-- upper arms (thick) -->
-    <path d="M940 175 Q880 190 884 250 Q886 300 912 335 L962 325 Q958 290 962 250 Z"/>
-    <path d="M1160 175 Q1220 190 1216 250 Q1214 300 1188 335 L1138 325 Q1142 290 1138 250 Z"/>
+    <path d="M1037 145 h26 v24 h-26 Z"/>
+    <ellipse cx="1050" cy="133" rx="18" ry="22"/>
+    <!-- upper arms -->
+    <path d="M986 186 Q970 220 980 256" stroke-width="28" fill="none"/>
+    <path d="M1114 186 Q1130 220 1120 256" stroke-width="28" fill="none"/>
   </g>
 
   <!-- WOMAN (petite, in front) -->
@@ -57,10 +57,10 @@
 
   <!-- MAN forearms + hands resting on her shoulders (drawn over her) -->
   <g stroke="#120d22" stroke-linecap="round" fill="#120d22">
-    <path d="M936 322 Q960 285 1012 270" stroke-width="40" fill="none"/>
-    <path d="M1164 322 Q1140 285 1088 270" stroke-width="40" fill="none"/>
-    <ellipse cx="1022" cy="268" rx="18" ry="13" stroke="none"/>
-    <ellipse cx="1078" cy="268" rx="18" ry="13" stroke="none"/>
+    <path d="M980 256 Q994 268 1014 266" stroke-width="22" fill="none"/>
+    <path d="M1120 256 Q1106 268 1086 266" stroke-width="22" fill="none"/>
+    <ellipse cx="1022" cy="265" rx="12" ry="9" stroke="none"/>
+    <ellipse cx="1078" cy="265" rx="12" ry="9" stroke="none"/>
   </g>
 
   <!-- text -->
